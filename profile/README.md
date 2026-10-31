@@ -17,7 +17,7 @@
 <p align="center">
   <a href="https://xentavi.com"><img alt="Website" src="https://img.shields.io/badge/xentavi.com-0061FE?style=flat-square&logo=googlechrome&logoColor=white"></a>
   <a href="https://staimp.com"><img alt="Staimp" src="https://img.shields.io/badge/Staimp-live%20alpha-000D30?style=flat-square"></a>
-  <a href="mailto:oleg.s@xentavi.com"><img alt="Email" src="https://img.shields.io/badge/email-oleg.s%40xentavi.com-000D30?style=flat-square&logo=maildotru&logoColor=white"></a>
+  <a href="mailto:hello@xentavi.com"><img alt="Email" src="https://img.shields.io/badge/email-hello%40xentavi.com-000D30?style=flat-square&logo=maildotru&logoColor=white"></a>
 </p>
 
 ---
@@ -69,4 +69,4 @@ A messenger-native CRM for community-led brands on Telegram, Discord, WhatsApp a
 
 ## Talk to us
 
-Start at [xentavi.com](https://xentavi.com) or write to [oleg.s@xentavi.com](mailto:oleg.s@xentavi.com).
+Start at [xentavi.com](https://xentavi.com) or write to [hello@xentavi.com](mailto:hello@xentavi.com).
